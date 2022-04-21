@@ -10,5 +10,80 @@
       "userName": "ivanovvanya",
       "password": "121212"
     }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "label": "Buy products",
+      "date": "15.04.2022",
+      "operation": "expenses",
+      "amount": 453,
+      "idCategory": 2,
+      "isFavorites": true,
+      "status": {
+        "value": "pending",
+        "label": "Pending",
+        "color": "#e7e7e791"
+      }
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "label": "Gifts",
+      "date": "09.04.2022",
+      "operation": "expenses",
+      "amount": 456,
+      "idCategory": 1,
+      "isFavorites": true,
+      "status": {
+        "value": "confirmed",
+        "label": "Confirmed"
+      }
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "label": "Buy products",
+      "date": "11.04.2022",
+      "operation": "expenses",
+      "amount": 345,
+      "idCategory": 2,
+      "isFavorites": false,
+      "status": {
+        "value": "rejected",
+        "label": "Rejected",
+        "color": "#fbdcdc"
+      }
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "label": "Gifts",
+      "date": "08.04.2022",
+      "operation": "expenses",
+      "amount": 443,
+      "idCategory": 1,
+      "isFavorites": false,
+      "status": {
+        "value": "pending",
+        "label": "Pending",
+        "color": "#e7e7e791"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "label": "Others"
+    },
+    {
+      "id": 2,
+      "label": "Products"
+    },
+    {
+      "id": 3,
+      "label": "Salary"
+    }
   ]
 }
