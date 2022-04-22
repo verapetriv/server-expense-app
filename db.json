@@ -34,7 +34,7 @@
       "date": "09.04.2022",
       "operation": "expenses",
       "amount": 456,
-      "idCategory": "default",
+      "idCategory": 1,
       "isFavorites": true,
       "status": {
         "value": "confirmed",
@@ -63,7 +63,7 @@
       "date": "08.04.2022",
       "operation": "expenses",
       "amount": 443,
-      "idCategory": "default",
+      "idCategory": 1,
       "isFavorites": false,
       "status": {
         "value": "pending",
@@ -75,7 +75,7 @@
   "categories": [
     {
       "id": 1,
-      "userId": "default",
+      "userId": 1,
       "label": "Others"
     },
     {
