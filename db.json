@@ -48,7 +48,7 @@
       "date": "11.04.2022",
       "operation": "expenses",
       "amount": 345,
-      "idCategory": 2,
+      "idCategory": 3,
       "isFavorites": false,
       "status": {
         "value": "rejected",
