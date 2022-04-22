@@ -75,14 +75,17 @@
   "categories": [
     {
       "id": 1,
+      "userId": "default",
       "label": "Others"
     },
     {
       "id": 2,
+      "userId": "default",
       "label": "Products"
     },
     {
       "id": 3,
+      "userId": "default",
       "label": "Salary"
     }
   ]
