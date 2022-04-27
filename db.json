@@ -20,7 +20,7 @@
       "operation": "expenses",
       "amount": 453,
       "idCategory": 2,
-      "isFavorites": true,
+      "isFavorite": true,
       "status": {
         "value": "pending",
         "label": "Pending",
@@ -35,7 +35,7 @@
       "operation": "expenses",
       "amount": 456,
       "idCategory": 1,
-      "isFavorites": true,
+      "isFavorite": true,
       "status": {
         "value": "confirmed",
         "label": "Confirmed"
@@ -49,7 +49,7 @@
       "operation": "expenses",
       "amount": 345,
       "idCategory": 3,
-      "isFavorites": false,
+      "isFavorite": false,
       "status": {
         "value": "rejected",
         "label": "Rejected",
@@ -64,7 +64,7 @@
       "operation": "expenses",
       "amount": 443,
       "idCategory": 1,
-      "isFavorites": false,
+      "isFavorite": false,
       "status": {
         "value": "pending",
         "label": "Pending",
